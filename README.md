@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Olá! Muito prazer, eu sou o
+    Olá! Muito prazer, sou o
     <a href="https://www.linkedin.com/in/mattheuspereira/">Mattheus Pereira 🤖</a>
   </h1>
   
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/mattheusp">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mattheusp&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheusp&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
