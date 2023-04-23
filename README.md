@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Fico feliz que esteja aqui!😉️ bora codar?💻
+    Fico feliz que esteja aqui!😉️ simbora codar?💻
   </p>
   
 </div>
