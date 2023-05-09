@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Fico feliz que esteja aqui!😉️ Abaixo, são as habilidades que possuo
+    Fico feliz que esteja aqui!😉️ Simbora progamar??
   </p>
   
 </div>
