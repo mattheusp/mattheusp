@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Fico feliz que esteja aqui!😉️ Simbora progamar?!
+    Seja muito bem vindo(a)!😉️ Bora progamar?!
   </p>
   
 </div>
