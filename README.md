@@ -2,10 +2,17 @@
 
 Frontend Developer & UI Designer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mattheus%20Pereira-black?style=flat-square&logo=Linkedin&logoColor=96ff00&link=https://www.linkedin.com/in/mattheuspereira/)](//www.linkedin.com/in/mattheuspereira/) 
-[![Gmail Badge](https://img.shields.io/badge/-mattheusp382@gmail.com-black?style=flat-square&logo=Gmail&logoColor=96ff00&link=mailto:mattheusp382@gmail.com)](mailto:mattheusp382@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mattheus%20Pereira-96ff00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/mattheuspereira/)](//www.linkedin.com/in/mattheuspereira/) 
+[![Gmail Badge](https://img.shields.io/badge/-mattheusp382@gmail.com-96ff00?style=flat-square&logo=Gmail&logoColor=black&link=mailto:mattheusp382@gmail.com)](mailto:mattheusp382@gmail.com)
 
 Me chamo Mattheus Pereira, tenho 20 anos. Sou freelancer como Frontend Developer e UI Designer. Apaixonado por tecnologia, café e Jazz.
+
+ ## Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=96ff00)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=96ff00)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=react&logoColor=96ff00)&nbsp;
+![Php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php&logoColor=96ff00)&nbsp; 
+
 
 <hr>
 
