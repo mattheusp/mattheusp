@@ -1,33 +1,16 @@
-<div>
-  
-  <h1 align="center">
-    Olá! Muito prazer, sou o
-    <a href="https://www.linkedin.com/in/mattheuspereira/">Mattheus Pereira 🤖</a>
-  </h1>
-  
-  <p align="center">
-    Seja muito bem vindo(a)!😉️ Bora progamar?!
-  </p>
-  
-</div>
+# Mattheus Pereira
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python" height="35" width="35" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div><br>
+Frontend Developer & UI Designer
 
-<div align="center">
-  <a href="https://www.instagram.com/p_pmattheus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mattheuspereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:mattheusp382@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Mattheus%20Pereira-black?style=flat-square&logo=Linkedin&logoColor=96ff00&link=https://www.linkedin.com/in/mattheuspereira/)](//www.linkedin.com/in/mattheuspereira/) 
+[![Gmail Badge](https://img.shields.io/badge/-mattheusp382@gmail.com-black?style=flat-square&logo=Gmail&logoColor=96ff00&link=mailto:mattheusp382@gmail.com)](mailto:mattheusp382@gmail.com)
+
+Me chamo Mattheus Pereira, tenho 20 anos. Sou freelancer como Frontend Developer e UI Designer. Apaixonado por tecnologia, café e Jazz.
+
+<hr>
+
+Minha primeira experiência com códigos foi na época em que eu havia criado um Blogger (por volta de 2016). Me recordo que gostava bastante de alterar a cor do side bar de navegação através das configurações do html. Costumava passar horas tentando personalizar o site, a procura de deixar o mais elegante possivel.
+<br>
+<p align="left">
+  A sensação depois de aprender a estruturar páginas foi fascinante, é uma coisa realmente libertadora, depois de um tempo você consegue fazer por conta própria.
+</p>
