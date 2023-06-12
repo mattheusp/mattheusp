@@ -12,6 +12,7 @@ Me chamo Mattheus Pereira, tenho 20 anos. Sou freelancer como Frontend Developer
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=96ff00)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=react&logoColor=96ff00)&nbsp;
 ![Php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php&logoColor=96ff00)&nbsp; 
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=96ff00)&nbsp;
 
 
 <hr>
