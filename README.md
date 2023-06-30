@@ -7,12 +7,16 @@ Frontend Developer & UI Designer
 
 Me chamo Mattheus Pereira, tenho 20 anos. Sou freelancer como Frontend Developer e UI Designer. Apaixonado por tecnologia, café e Jazz.
 
- ## Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=96ff00)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=96ff00)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=react&logoColor=96ff00)&nbsp;
-![Php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php&logoColor=96ff00)&nbsp; 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=96ff00)&nbsp;
+ ## 💻 Technologies:
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logoColor=99ff00)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=99ff00)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&logoColor=99ff00)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-badge&logo=javascript&logoColor=99ff00)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=99ff00)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-badge&logo=html5&logoColor=99ff00)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=99ff00)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=99ff00)&nbsp;
+
 
 
 <hr>
