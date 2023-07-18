@@ -5,7 +5,7 @@ Frontend Developer & UI Designer
 [![Linkedin Badge](https://img.shields.io/badge/-Mattheus%20Pereira-96ff00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/mattheuspereira/)](//www.linkedin.com/in/mattheuspereira/) 
 [![Gmail Badge](https://img.shields.io/badge/-mattheusp382@gmail.com-96ff00?style=flat-square&logo=Gmail&logoColor=black&link=mailto:mattheusp382@gmail.com)](mailto:mattheusp382@gmail.com)
 
-Me chamo Mattheus Pereira, tenho 20 anos. Sou freelancer como Frontend Developer e UI Designer. Apaixonado por tecnologia, café e Jazz.
+My name is Matheus Pereira, I'm 20 years old. I'm a freelancer as Frontend Developer and UI Designer. Passionate about technology, coffee and Jazz.
 
  ## 💻 Technologies:
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logoColor=99ff00)&nbsp;
@@ -21,8 +21,8 @@ Me chamo Mattheus Pereira, tenho 20 anos. Sou freelancer como Frontend Developer
 
 <hr>
 
-Minha primeira experiência com códigos foi na época em que eu havia criado um Blogger (por volta de 2016). Me recordo que gostava bastante de alterar a cor do side bar de navegação através das configurações do html. Costumava passar horas tentando personalizar o site, a procura de deixar o mais elegante possivel.
+My first experience with codes was when I created a Blogger (around 2016). I remember that I really liked changing the color of the navigation side bar through the html settings. I used to spend hours trying to customize the site, trying to make it as elegant as possible.
 <br>
 <p align="left">
-  A sensação depois de aprender a estruturar páginas foi fascinante, é uma coisa realmente libertadora, depois de um tempo você consegue fazer por conta própria.
+The feeling after learning how to structure pages was fascinating, it's really liberating, after a while you can do it on your own.
 </p>
