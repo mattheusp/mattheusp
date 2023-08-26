@@ -8,14 +8,14 @@ Frontend Developer & UI Designer
 My name is Matheus Pereira, I'm 20 years old. I'm a freelancer as Frontend Developer and UI Designer. Passionate about technology, coffee and Jazz.
 
  ## 💻 Technologies:
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logoColor=99ff00)&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=99ff00)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&logoColor=99ff00)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-badge&logo=javascript&logoColor=99ff00)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=99ff00)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-badge&logo=html5&logoColor=99ff00)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=99ff00)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=99ff00)&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logoColor=00BFFF0)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=00BFFF)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&logoColor=00BFFF)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-badge&logo=javascript&logoColor00BFFF)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=00BFFF)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-badge&logo=html5&logoColor=00BFFF)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=00BFFF)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=00BFFF)&nbsp;
 
 
 
