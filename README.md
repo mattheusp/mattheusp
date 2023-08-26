@@ -11,7 +11,7 @@ My name is Matheus Pereira, I'm 20 years old. I'm a freelancer as Frontend Devel
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logoColor=00BFFF0)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=00BFFF)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&logoColor=00BFFF)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-badge&logo=javascript&logoColor00BFFF)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=00BFFF)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=00BFFF)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-badge&logo=html5&logoColor=00BFFF)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=00BFFF)&nbsp;
