@@ -2,8 +2,8 @@
 
 Frontend Developer & UI Designer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mattheus%20Pereira-000000?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/mattheuspereira/)](//www.linkedin.com/in/mattheuspereira/) 
-[![Gmail Badge](https://img.shields.io/badge/-mattheusp382@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=black&link=mailto:mattheusp382@gmail.com)](mailto:mattheusp382@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mattheus%20Pereira-fff?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/mattheuspereira/)](//www.linkedin.com/in/mattheuspereira/) 
+[![Gmail Badge](https://img.shields.io/badge/-mattheusp382@gmail.com-fff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:mattheusp382@gmail.com)](mailto:mattheusp382@gmail.com)
 
 My name is Matheus Pereira, I'm 20 years old. I'm a freelancer as Frontend Developer and UI Designer. Passionate about technology, coffee and Jazz.
 
