@@ -5,7 +5,8 @@ Frontend Developer & UI Designer
 [![Linkedin Badge](https://img.shields.io/badge/-Mattheus%20Pereira-fff?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/mattheuspereira/)](//www.linkedin.com/in/mattheuspereira/) 
 [![Gmail Badge](https://img.shields.io/badge/-mattheusp382@gmail.com-fff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:mattheusp382@gmail.com)](mailto:mattheusp382@gmail.com)
 
-My name is Matheus Pereira, I'm 20 years old. I'm a freelancer as Frontend Developer and UI Designer. Passionate about technology, coffee and Jazz.
+My name is Matheus Pereira, i'm Back-End Developer, specialized in Python.
+Deep knowledge of frameworks such as Django and Flask, skills in database design and query optimization.
 
  ## 💻 Technologies:
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logoColor=00BFFF0)&nbsp;
