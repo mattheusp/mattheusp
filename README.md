@@ -6,7 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-mattheusp382@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mattheusp382@gmail.com)](mailto:mattheusp382@gmail.com)
 
 I'm Matheus Pereira, a Back-End Developer specializing in JavaScript. I work with frameworks like **Node.js** and **Express.js**. My expertise includes database design and query optimization using technologies like **MongoDB** and **MySQL**.
-# Project Name
 
 ## 💻 Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
