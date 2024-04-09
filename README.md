@@ -2,8 +2,6 @@
 
 ## FullStack Developer & UX/UI Designer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mattheus%20Pereira-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mattheuspereira/)](//www.linkedin.com/in/mattheuspereira/) 
-
 I'm Matheus Pereira, a Back-End Developer specializing in JavaScript. I work with frameworks like **Node.js** and **Express.js**. My expertise includes database design and query optimization using technologies like **MongoDB** and **MySQL**.
 
 ## 💻 Technologies
