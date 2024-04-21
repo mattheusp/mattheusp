@@ -19,8 +19,6 @@ I'm Matheus Pereira, a Back-End Developer specializing in JavaScript. I work wit
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
 
-
-
 ---
 
 My coding journey began when I created a Blogger site around 2016. I vividly remember the joy of customizing the color of the navigation sidebar through HTML settings. Spending hours making the site as elegant as possible ignited my passion for coding.
