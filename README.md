@@ -4,7 +4,6 @@
 
 I'm Matheus Pereira, a Back-End Developer specializing in JavaScript. I work with frameworks like **Node.js** and **Express.js**. My expertise includes database design and query optimization using technologies like **MongoDB** and **MySQL**.
 
-
 ## 💻 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
